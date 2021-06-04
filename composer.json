@@ -1,0 +1,15 @@
+{
+    "name": "farhan/pertemuan_5",
+    "description": "Ini latihan composer buatan Farhan Naufaldy, Bukan Hasil Copas",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Farhan Naufaldy",
+            "email": "farhan.naufaldy2811@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.46"
+    }
+}
